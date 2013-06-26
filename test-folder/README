@@ -6,3 +6,5 @@ command-line and/or your local Electric Commander server.
 Add one line for the changelog.
 Add a second line for the changelog.
 Add a third line for the changelog, on the branch test-mam.
+Add a fourth line, to verify it is not on the tag v1.3.lines.
+
