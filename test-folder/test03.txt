@@ -1,0 +1,1 @@
+Third text file for multiple-file commits.
